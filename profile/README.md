@@ -12,5 +12,5 @@ Need to contact us? Send a mail to <info@dfir-dd.de>.
 
 | Tool | What does it do ? |
 |-|--|
-|[DFIR Toolkit](https://github.com/dfir-dd/dionysos)|Collection of CLI tools for Windows forensic analysis|
+|[DFIR Toolkit](https://github.com/dfir-dd/dfir-toolkit)|Collection of CLI tools for Windows forensic analysis|
 |[dionysos](https://github.com/dfir-dd/dionysos)|Scanner for various IoCs, esp. yara-based|
