@@ -1,4 +1,4 @@
-<img align="right" width="128px" src="https://github.com/dfir-dd/pr/blob/main/images/fox/dfir_fox.ai?raw=true">
+<img align="right" width="128px" src="https://github.com/dfir-dd/pr/blob/main/images/fox/dfir_fox_ai.png?raw=true">
 
 # DFIR-DD Team Site
 
