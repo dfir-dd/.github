@@ -4,7 +4,7 @@
 
 ## Who are we?
 
-A team of incident responders and forensic analysts, currently working at [Deutsche Telekom MMS](https://www.telekom-mms.com/) in Dresden.
+A team of incident responders and forensic analysts, currently working at [BDO Cyber Security](https://www.bdosecurity.de/) in Dresden.
 
 Need to contact us? Send a mail to <info@dfir-dd.de>.
 
