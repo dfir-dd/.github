@@ -15,4 +15,4 @@ Need to contact us? Send a mail to <info@dfir-dd.de>.
 |[DFIR Toolkit](https://github.com/dfir-dd/dfir-toolkit)|Collection of CLI tools for Windows forensic analysis|
 |[dionysos](https://github.com/dfir-dd/dionysos)|Scanner for various IoCs, esp. yara-based|
 |[Dissect Triage](https://github.com/dfir-dd/dissect-triage)|A binary to collect triage data from Windows Systems, based on [dissect](https://github.com/fox-it/dissect)|
-|[Quick Timeline](https://github.com/dfir-dd/quicktimeline)|do a quick timeline based on dissect|
+|[Kirby](https://github.com/dfir-dd/kirby)|do a quick timeline based on dissect|
